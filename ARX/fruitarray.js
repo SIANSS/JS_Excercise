@@ -8,6 +8,6 @@ console.log(fruit);
 console.log(fruit[2]);
 console.log("----------------------END---------");
 //Question 3
-for (i = fruit.length-1; i => 0;i--) {
+for (i = fruit.length-1; i >= 0;i--) {
   console.log(fruit[i]);
 }
